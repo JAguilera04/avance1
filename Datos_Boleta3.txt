@@ -1,0 +1,4 @@
+﻿
+
+Pedido Nº: 1     Pollo con papas;2000.0
+     Carne a la olla;3000.0
